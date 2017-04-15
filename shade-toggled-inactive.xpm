@@ -1,6 +1,6 @@
 /* XPM */
 static char * shade_toggled_inactive = {
-"18 12 4 1", 
+"18 11 4 1", 
 "@	c #000000 s inactive_color_2", 
 "+	c #505050 s inactive_text_color", 
 "=	c #000000 s inactive_color_2", 
@@ -15,6 +15,5 @@ static char * shade_toggled_inactive = {
 "====@++++++++@====", 
 "=====@++++++@=====", 
 "======@++++@======", 
-"=======@++@=======", 
 "========@@========", 
 };
