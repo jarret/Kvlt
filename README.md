@@ -13,4 +13,4 @@ $ sudo mkdir /usr/share/themes/Kvlt
 
 $ sudo mkdir /usr/share/themes/Kvlt/xfwm4
 
-$ sudo cp -r \*.xpm initrc /usr/share/themes/Kvlt/xfwm4
+$ sudo cp -r \*.xpm themerc /usr/share/themes/Kvlt/xfwm4
